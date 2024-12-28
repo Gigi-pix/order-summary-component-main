@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    padding: 10%;
+    background-color: hsl(225, 100%, 94%);
+    font-family: "Red Hat Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+   
+   
+   .attribution { 
+        font-size: 11px;
+         text-align: center;
+         }
+
+         .attribution a { 
+            color: hsl(228, 45%, 44%); 
+        }
+
+        .container {
+            border-radius: 10px;
+            width: 450px;
+            justify-content: center;
+            margin: auto;
+            align-items: center;
+            background-color: hsl(225, 100%, 98%);
+        }
+
+        .pianoannuale {
+            justify-content: center;
+            width: 50%;
+            margin: 0;
+            
+        }
+
+        .pianoabbonamento {
+            border-radius: 10px;
+            display: flex;
+            justify-content: space-between;
+            margin: auto;
+            width: 300px;
+            align-items: center;
+            background-color: hsl(214, 33%, 92%);
+            height: 70px;
+            padding: 10px;
+        
+        }
+
+        .button {
+            justify-content: center;
+            width: 80%;
+            height: 40px;
+            align-items: center;
+            margin: auto;
+            background-color: hsl(245, 75%, 52%);
+            border-radius: 10px;
+            box-shadow: 0 15px hsl(228, 31%, 87%);
+        }
+
+        #sfondo{
+            width: 450px;
+            height: 220px;
+            display: block;
+            border-radius: 10px 10px 0 0;
+        
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p  {
+            text-align: center;
+            margin: 30px;
+            color: hsl(224, 23%, 55%);
+        }
+
+        h5{
+            text-align: center;
+            color: hsl(228, 44%, 87%);
+            margin: 30px;
+            padding: 10px;
+        }
+
+        h6 {
+            text-align: center;
+            color: hsl(224, 23%, 55%);
+            font-size: 14px;
+        }
+
+        h2, h3 {
+            font-size: 14px;
+        }
+
+        
